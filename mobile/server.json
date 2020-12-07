@@ -1,0 +1,149 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "name": "Luan Ramos",
+      "email": "luanramossfarias@gmail.com",
+      "tell": "47992528626",
+      "avatar": "https://avatars0.githubusercontent.com/u/60244880?s=460&u=77e7ef9c74cd9290c52e83f5edd1809b18e3bbce&v=4",
+      "collection": [
+        {
+          "id": "12",
+          "itemCollection": "Controle de Super Nintendo",
+          "type": ["Controle", "Nintendo", "SNES"],
+          "foto": "https://images.unsplash.com/photo-1599408213022-eff8bee5de87?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=1350&q=80",
+          "descrição": "Controle de Super Nintendo",
+          "created_at": "",
+          "updated_at": "",
+          "avaliaçoes": [
+            {
+              "ratting_id": "12",
+              "item_id": "12",
+              "description": "Achei daora, saudades do meu super nintendo",
+              "created_at": "",
+              "updated_at": ""
+            },
+            {
+              "ratting_id": "124",
+              "item_id": "12",
+              "description": "O meu ta parado aqui em casa, acho que vou ligar ele",
+              "created_at": "",
+              "updated_at": ""
+            },
+            {
+              "ratting_id": "124",
+              "item_id": "12",
+              "description": "To vendendo o meu, vem no meu perfil",
+              "created_at": "",
+              "updated_at": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "12",
+      "name": "Luan Ramos",
+      "email": "luanramossfarias@gmail.com",
+      "tell": "47992528626",
+      "avatar": "https://avatars0.githubusercontent.com/u/60244880?s=460&u=77e7ef9c74cd9290c52e83f5edd1809b18e3bbce&v=4",
+      "collection": [
+        {
+          "id": "123",
+          "itemCollection": "Controle de Super Nintendo",
+          "type": ["Gameboy", "Nintendo", "Colors"],
+          "foto": "https://images.unsplash.com/photo-1525799894461-3cfe39b72d69?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=1350&q=80",
+          "descrição": "Gameboy color",
+          "created_at": "",
+          "updated_at": "",
+          "avaliaçoes": [
+            {
+              "ratting_id": "123",
+              "item_id": "123",
+              "description": "As cores eram muito boas hahaha",
+              "created_at": "",
+              "updated_at": ""
+            },
+            {
+              "ratting_id": "123",
+              "item_id": "123",
+              "description": "Eu tinha um preto",
+              "created_at": "",
+              "updated_at": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "2",
+      "name": "Luan Ramos",
+      "email": "luanramossfarias@gmail.com",
+      "tell": "47992528626",
+      "avatar": "https://avatars0.githubusercontent.com/u/60244880?s=460&u=77e7ef9c74cd9290c52e83f5edd1809b18e3bbce&v=4",
+      "collection": [
+        {
+          "id": "23",
+          "itemCollection": "xbox",
+          "type": ["Xbox", "new", "Controle"],
+          "foto": "https://images.unsplash.com/photo-1602610411365-76e8c2a88e18?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=633&q=80",
+          "descrição": "Controle Xbox one",
+          "created_at": "",
+          "updated_at": "",
+          "avaliaçoes": [
+            {
+              "ratting_id": "23",
+              "item_id": "23",
+              "description": "Não é retro, mas o controle é muito bom",
+              "created_at": "",
+              "updated_at": ""
+            }
+          ]
+        },
+        {
+          "id": "234",
+          "itemCollection": "Arcade",
+          "type": ["Controle", "Nintendo", "new-gen"],
+          "foto": "https://images.unsplash.com/photo-1605142806312-9ba7fa5cd0fd?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=1350&q=80",
+          "descrição": "Nintendo Switch",
+          "created_at": "",
+          "updated_at": "",
+          "avaliaçoes": [
+            {
+              "ratting_id": "23",
+              "item_id": "23",
+              "description": "Achei daora, saudades do meu super nintendo",
+              "created_at": "",
+              "updated_at": ""
+            },
+            {
+              "ratting_id": "23",
+              "item_id": "23",
+              "description": "Nintendo não faz mais video games como antes...",
+              "created_at": "",
+              "updated_at": ""
+            }
+          ]
+        },
+        {
+          "id": "233",
+          "itemCollection": "Arcade",
+          "type": ["Antigo", "Arcade"],
+          "foto": "https://images.unsplash.com/photo-1521484358791-8c8504da415e?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&auto=format&fit=crop&w=1353&q=80",
+          "descrição": "Arcade",
+          "created_at": "",
+          "updated_at": "",
+          "avaliaçoes": [
+            {
+              "ratting_id": "23",
+              "item_id": "23",
+              "description": "Ta me faltando fichas hahaha",
+              "created_at": "",
+              "updated_at": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
